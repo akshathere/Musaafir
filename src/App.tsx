@@ -1,7 +1,10 @@
+import Search from "./components/search";
+
 function App() {
   return (
     <>
-      <div className="font-bold text-xl">Hello</div>
+
+      <Search/>
     </>
   );
 }
